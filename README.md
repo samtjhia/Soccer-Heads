@@ -1,10 +1,20 @@
-My friend and I were avid players of the mobile game "Head Soccer" by D&D Dream. This inspired me to create my own PC version with a personal twist: characters that resemble my friends and I, representing our respective countries.
+# Soccer Heads
 
-This project was developed using Unity, incorporating a blend of sprites sourced from the internet, elements from the original game, and custom sprites I designed myself. The music, composed by my friend Uri, adds a unique touch. Additionally, in this version, players can get knocked around by the ball more, adding an extra layer of challenge and fun compared to the original game.
+My friend and I were avid players of the mobile game "Head Soccer" by D&D Dream. This inspired me to create my own PC version with a personal twist: I renamed it **Soccer Heads** and designed characters that resemble my friends and I, each representing our respective countries.
 
-All scripts, animations, and other game elements were crafted by me. The game offers two modes:
+## Project Overview
 
-Single Player: Compete against an AI.
-Multiplayer: Local co-op on the same keyboard.
+Developed in Unity, **Soccer Heads** combines sprites from the original game, art sourced from the internet, and custom-designed sprites I created myself. The soundtrack was composed by my friend Uri, giving the game a unique feel. One key difference from the original game is that in this version, players can get knocked around by the ball more, adding an extra layer of challenge and fun!
 
-This project required a significant amount of effort, and I hope everyone who tries it enjoys the experience. It's my first attempt at creating a video game, and I'm excited to share it with you.
+## Features
+
+- **Single Player:** Compete against an AI opponent.
+- **Multiplayer:** Local co-op mode on the same keyboard.
+
+## Development
+
+All scripts, animations, and other game elements were created by me. This project was a lot of work, and it's my first attempt at creating a video game. I’m really excited to share it, and I hope everyone who tries it enjoys the experience!
+
+## Demo Video
+
+https://github.com/user-attachments/assets/67cd96bd-0e31-405c-83a0-87d138face04
